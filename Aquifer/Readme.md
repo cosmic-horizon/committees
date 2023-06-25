@@ -1,3 +1,6 @@
+# Aquifer Committee Charter
+June, 25 2023
+
 ## Committee Name and Purpose:
 **Aquifer Committee**
 
