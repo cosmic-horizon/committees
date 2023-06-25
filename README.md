@@ -1,1 +1,19 @@
-# committees
+# Governance Committees and Role of Validators
+
+## Role of Validators
+
+What is the role of a Validator in a Delegated Proof of Stake (DPoS) network? What are their responsibilities? In my humble opinion, and please correct me if I am mistaken, a Validator's duties extend beyond merely providing the infrastructure that operates the blockchain. While offering services such as RPCs, APIs, Snapshot Services, Archive Nodes, and explorers is commendable, a Validator encompasses a broader scope.
+
+## Governance
+Governance stands out as one of the most influential aspects of DPoS networks, granting the community a voice and endowing stakeholders with genuine decision-making power. In the Cosmos ecosystem, Validators not only validate transactions and provide infrastructure but also serve as governance liaisons for the community. Essentially, Validators represent the governing body of the blockchain itself. The remarkable feature of Cosmos governance lies in the fact that true democracy remains an option, enabling stakeholders to override their Validators' votes. Although this choice is seldom exercised, it emphasizes the utmost importance of Validators fulfilling their governance duties. These responsibilities encompass active participation in forums, comprehensive understanding of proposals, and diligent decision-making on behalf of their delegators.
+
+## Groups Module
+By incorporating the groups module, Cosmos networks can delve deeper into governance by establishing on-chain constitutions or charters that provide a framework for the network's governance. This module allows for the formation of government branches and committees assigned to specific tasks.
+
+Given that most chains do not yet have such a system in place, stakeholders find themselves in a unique position to voice their opinions and establish a government from the ground up. However, the question arises: how do Validators fit into this process? Validators should also lead committees and fulfill committee duties, such as evaluating projects that seek community spend pool funds or assessing relayers interested in participating in the network. These committees hold the power to incentivize diverse forms of participation within the network through voting mechanisms.
+
+## Summary
+In summary, a Validator in a Delegated Proof of Stake (DPoS) network plays a crucial role beyond providing blockchain infrastructure. They serve as both validators of transactions and governance liaisons for the community. Validators have responsibilities that extend to actively participating in forums, understanding proposals, and making informed decisions on behalf of their delegators. DPoS networks, such as Cosmos, emphasize the importance of governance and offer stakeholders the option to override Validators' votes, maintaining a democratic approach. The introduction of the groups module allows for the establishment of on-chain constitutions and the formation of government branches and committees, further enhancing the governance framework. While stakeholders have the opportunity to shape the network's governance, Validators are expected to lead committees, vet projects and relayers, and contribute to decision-making processes that incentivize network participation.
+
+## Committees Repo
+This repository is intended to be used by Qwoyn Network committees to organize and document their work. Each committee should have a folder in this repository with a README.md file that describes the committee's purpose and work. The README.md file should also include a list of committee members and a link to the committee's meeting notes.
