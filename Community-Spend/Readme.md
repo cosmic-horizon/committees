@@ -1,4 +1,4 @@
-# Relayer Committee Charter
+# Community Spend Committee Charter
 June 29, 2023
 
 ## Table of Contents
@@ -15,20 +15,13 @@ June 29, 2023
 - [Charter Review](#charter-review)
 
 ## Committee Name and Purpose:
-**Relayer Committee**
 
-The Relayer Committee is dedicated to the selection and oversight of official relayers for the Qwoyn Network. The committee's purpose is to ensure the efficient and secure functioning of the network's relayer ecosystem by carefully choosing and delegating responsibilities to official relayers, as well as providing ongoing oversight and support as relayer watchdogs.
+**Community Spend Committee**
 
-The Relayer Committee is responsible for identifying and vetting potential relayers, assessing their technical capabilities, reliability, and alignment with the values and goals of the Qwoyn Network. The committee will make informed decisions regarding the selection of official relayers who will play a crucial role in facilitating transactions, maintaining network performance, and supporting the overall operations of the Qwoyn Network.
-
-Once official relayers are chosen, the Relayer Committee will delegate specific responsibilities and tasks to them, ensuring the effective distribution of workload and promoting decentralized network operations. The committee will establish clear guidelines, expectations, and performance metrics for official relayers to maintain a high standard of service and reliability.
-
-Additionally, the Relayer Committee will serve as watchdogs for the relayer ecosystem, actively monitoring the performance and behavior of official relayers. They will ensure compliance with established protocols, security measures, and best practices. If any issues or concerns arise, the committee will take appropriate actions to address them promptly, including providing guidance, support, or initiating corrective measures.
-
-By fulfilling its responsibilities, the Relayer Committee will contribute to the seamless functioning of the Qwoyn Network, promoting trust, efficiency, and security in the relayer ecosystem.
+The Community Spend Committee is dedicated to overseeing the distribution of community funds within the Qwoyn Network. The committee's purpose is to ensure the responsible and strategic allocation of funds based on defined milestones, vetting projects that request community funds, and making informed decisions on the utilization of these funds for the benefit of the network and its participants.
 
 
-Committee Membership:
+## Committee Membership:
 
 Include the names of the committee members, their roles or positions, and any additional information that helps identify each member's expertise or contribution to the committee.
 
@@ -44,7 +37,7 @@ Xxx xxx, <committee position>, etc etc..
 
 ## Internal Committee Elections:
 
-The Relayer Committee will follow a structured internal election process to select committee members and ensure a fair and transparent representation of the community. The following guidelines will be followed:
+The Aquifer Committee will follow a structured internal election process to select committee members and ensure a fair and transparent representation of the community. The following guidelines will be followed:
 
 **Nomination Process:** When a committee position becomes available or during scheduled elections, community members will have the opportunity to nominate themselves or others for committee membership. Nominations can be submitted through a designated channel or platform specified by the committee.
 
@@ -56,25 +49,19 @@ The Relayer Committee will follow a structured internal election process to sele
 
 ## Responsibilities and Duties:
 
-The Relayer Committee will have the following key responsibilities and duties in relation to the selection and oversight of official relayers for the Qwoyn Network:
+The Community Spend Committee will have the following key responsibilities and duties in relation to the oversight and distribution of community funds within the Qwoyn Network:
 
-**Selection of Official Relayers:** The committee will identify and evaluate potential relayers based on the defined evaluation criteria. They will carefully assess each candidate's previous relaying experience, relayer uptime, competency, and professional status to determine their suitability for becoming official relayers.
+**Distribution of Community Funds:** The committee will oversee the distribution of community funds based on predefined milestones. They will assess project proposals, evaluate their alignment with network goals and evaluation criteria, and allocate funds accordingly.
 
-**Delegation of Responsibilities:** Once official relayers are selected, the committee will delegate specific responsibilities and tasks to them. This may include assigning relaying duties for specific transactions or subsets of the network's operations. The committee will ensure that the workload is distributed efficiently among the official relayers.
+**Project Vetting:** The committee will thoroughly vet projects that request community funds. This includes reviewing project proposals, assessing their feasibility, impact, and community benefit, and conducting due diligence on the project team and their capabilities.
 
-**Performance Monitoring and Oversight:** The Relayer Committee will serve as watchdogs for the relayer ecosystem, actively monitoring the performance and behavior of official relayers. They will regularly assess and review the relayers' performance metrics, ensuring compliance with established protocols, security measures, and best practices.
+**Decision-Making on Fund Utilization:** The committee will make informed decisions on the utilization of community funds. They will consider the proposed milestones, project impact, financial prudence, and community benefit when determining the allocation of funds for specific projects.
 
-**Support and Guidance:** The committee will provide support and guidance to official relayers as needed. They will be available to address relayer inquiries, provide clarifications on relaying processes, and assist with any technical or operational challenges that arise.
+**Monitoring and Reporting:** The committee will monitor the progress of projects that receive community funds, ensuring that they meet the defined milestones and deliver on their intended outcomes. Regular reporting will be required from project owners to track progress and provide transparency to the Qwoyn Network community.
 
-**Corrective Measures and Dispute Resolution:** In the event of any issues, breaches of protocols, or disputes involving official relayers, the committee will take appropriate actions to address them. This may include initiating corrective measures, engaging in dispute resolution processes, or collaborating with relevant stakeholders to resolve conflicts.
+**Community Engagement:** The committee will actively engage with the Qwoyn Network community to gather input, seek feedback, and involve community members in the decision-making process. They will provide opportunities for community participation, address concerns, and foster transparency in the distribution and utilization of community funds.
 
-**Periodic Evaluation and Reassessment:** The Relayer Committee will conduct periodic evaluations of official relayers to ensure their ongoing compliance with the defined criteria and performance expectations. This evaluation process will help maintain a high standard of relaying services within the Qwoyn Network.
-
-**Community Engagement and Communication:** The committee will actively engage with the Qwoyn Network community to communicate updates, developments, and changes related to the relaying ecosystem. They will seek input from community members, address their concerns, and foster transparency in the relayer selection and oversight processes.
-
-**Relayer Delegations:** The Relayer Committee will have the authority to choose and delegate relaying responsibilities to the official validators selected for the Qwoyn Network. The committee will carefully evaluate and select validators based on their technical expertise, reliability, and alignment with the network's goals. Once official validators are chosen, the committee will delegate specific relaying tasks to them, ensuring that transactions and network operations are efficiently and securely processed. The committee will regularly assess the performance and adherence of delegated validators to ensure the reliability and effectiveness of the relayer ecosystem within the Qwoyn Network.
-
-By diligently fulfilling these responsibilities, the Relayer Committee will contribute to the effective operation and continuous improvement of the Qwoyn Network's relaying ecosystem. Their oversight and support will ensure the selection of dedicated, competent, and reliable official relayers, thereby promoting the network's security, efficiency, and long-term sustainability.
+By fulfilling these responsibilities, the Community Spend Committee will ensure the effective and responsible distribution of community funds within the Qwoyn Network. Their oversight and decision-making will support projects that align with network goals, promote community engagement, and contribute to the growth and success of the Qwoyn Network ecosystem.
 
 ## Decision-Making Process:
 
@@ -102,21 +89,25 @@ By diligently fulfilling these responsibilities, the Relayer Committee will cont
 
 ## Evaluation and Selection Criteria:
 
-The Relayer Committee will evaluate potential relayers for the Qwoyn Network based on a set of predefined criteria to ensure the selection of dedicated and competent relayers with a strong track record. The following criteria will be considered:
+The Community Spend Committee will evaluate project proposals seeking community funds based on predefined criteria to ensure alignment with the committee's purpose and the overall goals of the Qwoyn Network. The following criteria will be considered:
 
-**Previous Relaying Experience:** The committee will assess the relayer's past experience in relaying transactions on blockchain networks. This includes evaluating their performance, reliability, and adherence to established protocols and standards.
+**Alignment with Network Goals:** Assess the extent to which the project proposal aligns with the strategic objectives and mission of the Qwoyn Network.
 
-**Relayer Uptime:** The committee will consider the relayer's historical uptime, which reflects their ability to consistently maintain operational efficiency and availability. Relayers with a strong uptime record demonstrate their commitment to providing reliable services to the Qwoyn Network.
+**Project Milestones:** Evaluate the project's proposed milestones or stages to assess its feasibility, progress tracking potential, and alignment with the allocated funds.
 
-**Competency and Professional Status:** The committee will evaluate the relayer's technical competence, including their understanding of relaying protocols, network infrastructure, and security measures. Additionally, the relayer's professional status, such as certifications or relevant industry experience, will be taken into account.
+**Impact and Community Benefit:** Consider the potential impact of the project on the Qwoyn Network community, including aspects such as user adoption, network growth, and community engagement.
 
-**Long-Term Relaying Commitment:** It is important to the committee that selected relayers are committed to relaying transactions for an extended period. The relayer's dedication to the relaying role and their ability to sustain long-term involvement will be considered as a key criterion.
+**Financial Prudence:** Evaluate the financial viability and sustainability of the project, including budgeting, cost-effectiveness, and potential return on investment for the network.
 
-By assessing these evaluation criteria, the Relayer Committee aims to select relayers with a proven track record, technical expertise, and a strong commitment to the relaying responsibilities within the Qwoyn Network. This diligent evaluation process will ensure the network's relaying ecosystem operates with reliability, security, and long-term stability.
+**Project Team and Expertise:** Review the experience, expertise, and track record of the project team or individuals involved, assessing their capability to execute the proposed project successfully and deliver on the intended outcomes.
+
+**Transparency and Accountability:** Consider the project's plan for transparency and accountability, including regular reporting, progress tracking, and community involvement in decision-making processes.
+
+By applying these evaluation and selection criteria, the Community Spend Committee will make informed decisions regarding the allocation of community funds, ensuring responsible resource management and the support of projects that align with the network's goals and benefit the Qwoyn Network community.
 
 ## Progress Tracking and Reporting:
 
-The Relayer Committee will implement a robust system for tracking the progress of approved projects within the Osmosis LP. This section outlines the key components of progress tracking and reporting:
+The Aquifer Committee will implement a robust system for tracking the progress of approved projects within the Osmosis LP. This section outlines the key components of progress tracking and reporting:
 
 **Milestone-based Progress Tracking:** Approved projects will be divided into significant milestones or stages. The committee will establish clear milestones for each project, allowing for effective tracking of progress and achievement of key objectives.
 
@@ -144,7 +135,7 @@ Given the endowment of 250k QWOYN tokens, the Aquifer Committee has determined t
 
 ## Charter Amendments:
 
-The Relayer Committee recognizes that over time, amendments to the committee charter may be necessary to adapt to the evolving needs of the Qwoyn Network community. The following process will be followed for charter amendments:
+The Aquifer Committee recognizes that over time, amendments to the committee charter may be necessary to adapt to the evolving needs of the Qwoyn Network community. The following process will be followed for charter amendments:
 
 **Proposal and Ratification:** Any proposed amendments to the committee charter must be submitted to the committee for consideration. After thorough review and discussion within the committee, a proposal will be presented to the Qwoyn Network community for ratification.
 
