@@ -37,7 +37,7 @@ Xxx xxx, <committee position>, etc etc..
 
 ## Internal Committee Elections:
 
-The Aquifer Committee will follow a structured internal election process to select committee members and ensure a fair and transparent representation of the community. The following guidelines will be followed:
+The Community Spend Committee will follow a structured internal election process to select committee members and ensure a fair and transparent representation of the community. The following guidelines will be followed:
 
 **Nomination Process:** When a committee position becomes available or during scheduled elections, community members will have the opportunity to nominate themselves or others for committee membership. Nominations can be submitted through a designated channel or platform specified by the committee.
 
@@ -107,7 +107,7 @@ By applying these evaluation and selection criteria, the Community Spend Committ
 
 ## Progress Tracking and Reporting:
 
-The Aquifer Committee will implement a robust system for tracking the progress of approved projects within the Osmosis LP. This section outlines the key components of progress tracking and reporting:
+The Community Spend Committee will implement a robust system for tracking the progress of approved projects within the Osmosis LP. This section outlines the key components of progress tracking and reporting:
 
 **Milestone-based Progress Tracking:** Approved projects will be divided into significant milestones or stages. The committee will establish clear milestones for each project, allowing for effective tracking of progress and achievement of key objectives.
 
@@ -135,7 +135,7 @@ Given the endowment of 250k QWOYN tokens, the Aquifer Committee has determined t
 
 ## Charter Amendments:
 
-The Aquifer Committee recognizes that over time, amendments to the committee charter may be necessary to adapt to the evolving needs of the Qwoyn Network community. The following process will be followed for charter amendments:
+The Community Spend Committee recognizes that over time, amendments to the committee charter may be necessary to adapt to the evolving needs of the Qwoyn Network community. The following process will be followed for charter amendments:
 
 **Proposal and Ratification:** Any proposed amendments to the committee charter must be submitted to the committee for consideration. After thorough review and discussion within the committee, a proposal will be presented to the Qwoyn Network community for ratification.
 
