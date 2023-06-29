@@ -119,11 +119,11 @@ The Oversight Committee will implement a robust system for tracking the progress
 
 ## Resource Allocation:
 
-Given the endowment of 250k QWOYN tokens, the Aquifer Committee has determined that it can generate 6500 QWOYN tokens per month through staking. The funds will be allocated in the following manner:
+Given the endowment of 200,000 QWOYN tokens, the Oversight Committee has determined that it can generate roughly 5500 QWOYN tokens per month through staking. The funds will be allocated in the following manner:
 
 **Restaking:** 50% of the generated QWOYN tokens, equivalent to 3250 tokens per month, will be restaked into the staking pool. Restaking helps to support the growth and security of the network by increasing the staked QWOYN tokens and enhancing network consensus.
 
-**Distribution to Committee Members:** The remaining 50% of the generated QWOYN tokens, also equivalent to 3250 tokens per month, will be shared among the committee members. This distribution recognizes the efforts and contributions of committee members and provides an incentive for their active participation and dedication.
+**Distribution to Committee Members:** The remaining 50% of the generated QWOYN tokens will be shared among the committee members. This distribution recognizes the efforts and contributions of committee members and provides an incentive for their active participation and dedication.
 
 **Discretionary Use of Restaked Amount:** The committee will have the flexibility to determine the use of the restaked QWOYN tokens. They may choose to allocate them towards specific initiatives, community projects, liquidity provisioning, or any other endeavors that align with the committee's purpose and benefit the Qwoyn Network ecosystem.
 
