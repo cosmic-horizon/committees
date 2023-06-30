@@ -27,20 +27,15 @@ Additionally, the Relayer Committee will serve as watchdogs for the relayer ecos
 
 By fulfilling its responsibilities, the Relayer Committee will contribute to the seamless functioning of the Qwoyn Network, promoting trust, efficiency, and security in the relayer ecosystem.
 
+## Committee Membership:
 
-Committee Membership:
+Igor Ponomarev - lesnik_utsa, <committee position>
 
-Include the names of the committee members, their roles or positions, and any additional information that helps identify each member's expertise or contribution to the committee.
+Stanislav Bastan - 1stavr1, <committee position>
 
-Daniel Pittman
-Xxx xxx
-Xxx xxx
+Aleksey Malnach	- AlexeyM#5409, <committee position>
 
-Daniel Pittman, <committee position>, represents Qwoyn Studios, etc etc
-
-Xxx xxx, <committee position>, etc etc..
-
-Xxx xxx, <committee position>, etc etc..
+Max	- mzonder, <committee position>
 
 ## Internal Committee Elections:
 
