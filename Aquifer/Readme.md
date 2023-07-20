@@ -21,7 +21,9 @@ The Aquifer Committee is dedicated to the responsible management of the Osmosis 
 
 ## Committee Membership:
 
-Include the names of the committee members, their roles or positions, and any additional information that helps identify each member's expertise or contribution to the committee.
+qwoyn
+lofingv#3937
+BadgerBite
 
 ## Internal Committee Elections:
 
@@ -119,6 +121,29 @@ Given the endowment of 200,000 QWOYN tokens, the Aquifer Committee has determine
 **Distribution to Committee Members:** The remaining 50% of the generated QWOYN tokens will be shared among the committee members. This distribution recognizes the efforts and contributions of committee members and provides an incentive for their active participation and dedication.
 
 **Discretionary Use of Restaked Amount:** The committee will have the flexibility to determine the use of the restaked QWOYN tokens. They may choose to allocate them towards specific initiatives, community projects, liquidity provisioning, or any other endeavors that align with the committee's purpose and benefit the Qwoyn Network ecosystem.
+
+## Bylaws
+
+- The Aquifer Committee has the authority to establish internal bylaws that govern the committee's operations, decision-making processes, and overall functioning. Bylaws serve as supplementary guidelines and procedures that support the effective functioning of the committee.
+
+- Bylaws shall be created through an internal voting process within the committee. Proposed bylaws may be submitted by any committee member and will be reviewed and deliberated upon by the committee.
+
+- The proposed bylaws shall be distributed to all committee members for review at least two weeks before the voting process. This allows sufficient time for committee members to understand and provide input on the proposed bylaws.
+
+- Bylaws require a majority vote from the committee members to be adopted. The voting mechanism and timeline for bylaws adoption shall be determined by the committee, ensuring fair representation and equal opportunity for all members to participate in the decision-making process.
+
+- Bylaws may cover various aspects of the committee's operations, including but not limited to:
+
+  - Internal procedures and protocols for meetings, decision-making, and communication.
+  - Roles and responsibilities of committee members, including committee chair, secretary, and other designated positions.
+  - Conflict resolution mechanisms for addressing internal disputes or conflicts.
+  - Procedures for the appointment, resignation, or removal of committee members.
+  - Additional guidelines for project evaluation, selection criteria, and progress tracking.
+  - Financial management and resource allocation policies specific to the Aquifer Committee's responsibilities.
+
+- Bylaws may be amended or revised through a similar internal voting process. Proposed amendments to the bylaws shall follow the same guidelines and procedures as outlined in this section.
+
+- The committee chair shall oversee the implementation and enforcement of the bylaws, ensuring adherence by all committee members. The bylaws shall be made readily available to all committee members for reference and to maintain transparency and consistency in committee operations.
 
 ## Charter Amendments:
 
