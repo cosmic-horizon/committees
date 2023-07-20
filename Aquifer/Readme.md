@@ -37,7 +37,6 @@ The Aquifer Committee will follow a structured internal election process to sele
 
 **Resignation Protocol:** In the event that a committee member resigns or is unable to fulfill their duties, the committee will follow a predefined protocol to address the vacancy. This may involve the initiation of a by-election or appointment process to fill the vacant position, ensuring the continuity of the committee's operations.
 
-
 ## Responsibilities and Duties:
 
 **Managing the Osmosis LP:** The Aquifer Committee will oversee the management and operations of the Osmosis liquidity pool. This includes monitoring the liquidity pool's performance, ensuring its stability and efficiency, and implementing strategies to optimize its functionality.
