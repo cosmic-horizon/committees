@@ -1,5 +1,5 @@
 # Aquifer Committee Charter
-June, 25 2023
+July 20, 2023
 
 ## Table of Contents
 - [Committee Name and Purpose](#committee-name-and-purpose)
@@ -21,9 +21,9 @@ The Aquifer Committee is dedicated to the responsible management of the Osmosis 
 
 ## Committee Membership:
 
-qwoyn
-lofingv#3937
-BadgerBite
+qwoyn : President
+lofingv#3937 : Secretary
+BadgerBite : Treasurer
 
 ## Internal Committee Elections:
 
