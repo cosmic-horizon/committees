@@ -22,7 +22,9 @@ The Aquifer Committee is dedicated to the responsible management of the Osmosis 
 ## Committee Membership:
 
 qwoyn : President
+
 lofingv#3937 : Secretary
+
 BadgerBite : Treasurer
 
 ## Internal Committee Elections:
