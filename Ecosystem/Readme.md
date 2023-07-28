@@ -1,5 +1,5 @@
 # Ecosystem Committee Charter
-June 29, 2023
+July 28, 2023
 
 ## Table of Contents
 - [Committee Name and Purpose](#committee-name-and-purpose)
@@ -17,21 +17,15 @@ June 29, 2023
 ## Committee Name and Purpose:
 **Ecosystem Committee**
 
-The Ecosystem Committee is dedicated to making decisions on how community funds are spent and ensuring the proper use of allocated resources within the Qwoyn Network. The committee's purpose is to foster a vibrant and thriving ecosystem by creating and overseeing various programs, incentivizing community engagement, organizing community events, and facilitating collaborative initiatives that benefit the network and its participants.
+The Ecosystem Committee is dedicated to making decisions on how the community grows and operates. The committee's purpose is to foster a vibrant and thriving ecosystem by creating and overseeing various programs, incentivizing community engagement, organizing community events, and facilitating collaborative initiatives that benefit the network and its participants.
 
 ## Committee Membership:
 
 Include the names of the committee members, their roles or positions, and any additional information that helps identify each member's expertise or contribution to the committee.
 
-Daniel Pittman
-Xxx xxx
-Xxx xxx
-
-Daniel Pittman, <committee position>, represents Qwoyn Studios, etc etc
-
-Xxx xxx, <committee position>, etc etc..
-
-Xxx xxx, <committee position>, etc etc..
+RomanOZ
+Olga7
+BlueMist
 
 ## Internal Committee Elections:
 
@@ -48,8 +42,6 @@ The Ecosystem Committee will follow a structured internal election process to se
 ## Responsibilities and Duties:
 
 The Ecosystem Committee will have the following key responsibilities and duties in relation to the development and management of the Qwoyn Network ecosystem:
-
-**Allocation of Community Funds:** The committee will make decisions on how community funds are spent, ensuring that allocated resources are utilized efficiently and effectively to drive ecosystem growth and development.
 
 **Program Creation:** The committee will create various programs, initiatives, and incentives to foster community engagement and support ecosystem expansion. This includes designing Zealy programs, organizing community events, coordinating Twitter Spaces sessions, and other activities that contribute to community development.
 
@@ -103,11 +95,7 @@ By applying these evaluation and selection criteria, the Ecosystem Committee wil
 
 The Ecosystem Committee will implement a robust system for tracking the progress of approved projects within the Osmosis LP. This section outlines the key components of progress tracking and reporting:
 
-**Milestone-based Progress Tracking:** Approved projects will be divided into significant milestones or stages. The committee will establish clear milestones for each project, allowing for effective tracking of progress and achievement of key objectives.
-
 **Regular Reporting:** Project owners or teams will be required to provide regular updates on their project's progress according to the established milestones. The reporting frequency and format will be determined by the committee, ensuring transparency and accountability.
-
-**Review and Evaluation:** The Aquifer Committee will review the progress reports submitted by project owners or teams. The committee will assess whether milestones are being met, the project is on track, and if any adjustments or support are needed.
 
 **Community Communication:** The committee will communicate project progress to the Qwoyn Network community through designated channels such as official announcements, newsletters, or community forums. This ensures that community members are informed and engaged in the development and milestones achieved within the Osmosis LP projects.
 
@@ -115,11 +103,9 @@ The Ecosystem Committee will implement a robust system for tracking the progress
 
 **Transparency and Documentation:** The committee will maintain accurate records and documentation of project progress, updates, and evaluations. These records will be made available to the public to ensure transparency and facilitate community understanding of the projects' advancements.
 
-**Accountability Measures:** The committee will establish accountability measures to ensure project owners or teams fulfill their reporting obligations and make satisfactory progress towards project milestones. This may include periodic reviews, performance assessments, or specific criteria for continued project support.
-
 ## Resource Allocation:
 
-Given the endowment of 200,000 QWOYN tokens, the Community Spend Committee has determined that it can generate roughly 5500 QWOYN tokens per month through staking. The funds will be allocated in the following manner:
+Given the endowment of 200,000 QWOYN tokens. The staking rewards will be allocated in the following manner:
 
 **Restaking:** 50% of the generated QWOYN tokens will be restaked into the staking pool. Restaking helps to support the growth and security of the network by increasing the staked QWOYN tokens and enhancing network consensus.
 
@@ -150,7 +136,5 @@ To ensure the ongoing effectiveness and alignment of the committee's operations 
 **Proposal for Charter Amendments:** If any amendments or updates are deemed necessary during the review process, the committee will follow the Charter Amendments section (Section 9) to propose and ratify the changes, involving the community in the decision-making process.
 
 **Community Engagement:** The annual charter review presents an opportunity for community members to provide feedback and suggestions regarding the committee's operations and governance. The committee will actively seek community input and consider it during the review process.
-
-
 
 

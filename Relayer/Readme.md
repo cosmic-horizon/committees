@@ -1,5 +1,5 @@
 # Relayer Committee Charter
-July 07, 2023
+July 20, 2023
 
 ## Table of Contents
 - [Committee Name and Purpose](#committee-name-and-purpose)
