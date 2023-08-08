@@ -11,7 +11,7 @@ Example use cases:
 - Expulsion or removal of a committee member.
 - Decisions that would significantly alter the direction or strategy of the committee.
 
-2. Majority Vote: This policy is suitable for decisions that don't require unanimous agreement but still need a strong level of consensus to be approved. The proposal will be considered approved if it receives more affirmative votes than negative votes from the committee members.
+2. **Majority Vote:** This policy is suitable for decisions that don't require unanimous agreement but still need a strong level of consensus to be approved. The proposal will be considered approved if it receives more affirmative votes than negative votes from the committee members.
 
 Example use cases:
 

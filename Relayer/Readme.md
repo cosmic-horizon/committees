@@ -29,13 +29,13 @@ By fulfilling its responsibilities, the Relayer Committee will contribute to the
 
 ## Committee Membership:
 
-KJ Nodes, <committee position>
+KJ Nodes
 
-AlexeyM#5409, <committee position>
+AlexeyM#5409
 
-mzonder, <committee position>
+mzonder
 
-alx | bitszn, <committee position>
+alx | bitszn
 
 ## Internal Committee Elections:
 
@@ -129,7 +129,7 @@ The Relayer Committee will implement a robust system for tracking the progress o
 
 ## Resource Allocation:
 
-Given the endowment of 200k QWOYN tokens, the Aquifer Committee has determined that it can generate 5500 QWOYN tokens per month through staking. The funds will be allocated in the following manner:
+Given the endowment of 200k QWOYN tokens, the Aquifer Committee has determined that it can generate QWOYN tokens per month through staking. The funds will be allocated in the following manner:
 
 **Restaking:** 50% of the generated QWOYN tokens, equivalent to 2750 tokens per month, will be restaked into the staking pool. Restaking helps to support the growth and security of the network by increasing the staked QWOYN tokens and enhancing network consensus.
 
