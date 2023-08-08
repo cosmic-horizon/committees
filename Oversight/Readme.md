@@ -1,5 +1,5 @@
 # Oversight Committee Charter
-June 29, 2023
+
 
 ## Table of Contents
 - [Committee Name and Purpose](#committee-name-and-purpose)
@@ -8,8 +8,6 @@ June 29, 2023
 - [Responsibilities and Duties](#responsibilities-and-duties)
 - [Decision-Making Process](#decision-making-process)
 - [Meeting Schedule and Communication](#meeting-schedule-and-communication)
-- [Project Evaluation and Selection Criteria](#project-evaluation-and-selection-criteria)
-- [Progress Tracking and Reporting](#progress-tracking-and-reporting)
 - [Resource Allocation](#resource-allocation)
 - [Charter Amendments](#charter-amendments)
 - [Charter Review](#charter-review)
@@ -23,43 +21,29 @@ The Oversight Committee is dedicated to the review and supervision of committee 
 
 Include the names of the committee members, their roles or positions, and any additional information that helps identify each member's expertise or contribution to the committee.
 
-Daniel Pittman
-Xxx xxx
-Xxx xxx
 
-Daniel Pittman, <committee position>, represents Qwoyn Studios, etc etc
+Tyler Clatanff (CosmicHorizonGuru), Aspiring YouTuber, First Gen CoHo NFT Hoarder, Cosmos Enthusiast
 
-Xxx xxx, <committee position>, etc etc..
+0xSR, Core Validator, Kalia Network, https://kalia.network/ 
 
-Xxx xxx, <committee position>, etc etc..
+n1trog3n | StakeCraft, Core Validator, https://stakecraft.com/
+
+KingSuper, Core Validator, https://king.super.site/
 
 ## Internal Committee Elections:
 
 The Oversight Committee will follow a structured internal election process to select committee members and ensure a fair and transparent representation of the community. The following guidelines will be followed:
 
-**Nomination Process:** When a committee position becomes available or during scheduled elections, community members will have the opportunity to nominate themselves or others for committee membership. Nominations can be submitted through a designated channel or platform specified by the committee.
+**Nomination Process:** When a committee position becomes available or during scheduled elections, community members will have the opportunity to nominate themselves or others for committee membership. Nominations can be submitted through a designated channel or platform specified by the committee. Elections will be yearly unless amended.
 
-**Election Period:** The committee will establish a specific period for conducting elections. This period will allow ample time for nominations, candidate presentations, and community deliberation before the final voting process.
+**Election Period:** The committee will establish a specific period for conducting elections. This period will allow ample time for nominations, candidate presentations, and community deliberation before the final voting process. Election Period shall be three weeks before a vote followed by 7 days of voting. Any Candidate with less YES votes than NO  votes to be immediately disqualified.
 
-**Voting Mechanism:** The committee will define the voting mechanism, which may include options such as community-wide voting, committee member voting, or a combination of both. The mechanism will ensure fair representation and equal opportunity for community members to participate in the election process.
+**Voting Mechanism:** The committee will define the voting mechanism, which may include options such as community-wide voting, committee member voting, or a combination of both. The mechanism will ensure fair representation and equal opportunity for community members to participate in the election process. Elections shall be community-wide with committee members having equal vote to community members unless amended.
 
-**Resignation Protocol:** In the event that a committee member resigns or is unable to fulfill their duties, the committee will follow a predefined protocol to address the vacancy. This may involve the initiation of a by-election or appointment process to fill the vacant position, ensuring the continuity of the committee's operations.
+**Resignation Protocol:** In the event that a committee member resigns or is unable to fulfill their duties, the committee will follow a predefined protocol to address the vacancy. This may involve the initiation of a by-election or appointment process to fill the vacant position, ensuring the continuity of the committee's operations. Any community member can nominate any committee member for forced-resignation. If universal consensus among the Oversight Committee is achieved along with Dan’s approval A vote is not required. A detailed proposal explaining specific grievances is required for any community member to begin a forced resignation proceeding. Any petition for removal receiving more YES votes than No votes after 7 days of voting shall result in Immediate removal from the oversight committee followed by a 7 day application process followed by 7 days of voting. The applicant with the most YES votes minus the number of NO votes shall fill the newly vacant position unless amended
 
 ## Responsibilities and Duties:
 
-The Oversight Committee will have the following key responsibilities and duties in relation to the oversight and management of committee operations within the Qwoyn Network:
-
-**Review of Committee Participation:** The committee will conduct regular reviews of committee participation to assess the level of engagement, adherence to governance principles, and performance of committee members in fulfilling their responsibilities and duties.
-
-**Ensuring Transparency:** The committee will promote transparency across all committees by establishing and enforcing guidelines for open communication, access to information, and public reporting of committee activities, decisions, and progress.
-
-**Petition for Committee Member Removal:** In cases where committee members demonstrate persistent non-compliance with governance principles or fail to fulfill their responsibilities, the Oversight Committee will have the authority to initiate a petition for their removal, ensuring the continuity and effectiveness of committee operations.
-
-**Handling Disputes:** The committee will serve as a mediator and arbitrator for disputes arising within committees. They will facilitate conflict resolution processes, ensuring fair and impartial handling of disputes and promoting harmonious committee operations.
-
-**Providing Guidance and Support:** The Oversight Committee will offer guidance and support to committees, helping them navigate challenges, address concerns, and enhance their performance. They will provide resources and assistance to ensure committees operate efficiently and effectively.
-
-By fulfilling these responsibilities, the Oversight Committee will contribute to the transparent, accountable, and fair functioning of committees within the Qwoyn Network. Their oversight and management will foster a positive and collaborative environment, ensuring the network's overall success and integrity.
 
 ## Decision-Making Process:
 
@@ -67,13 +51,14 @@ By fulfilling these responsibilities, the Oversight Committee will contribute to
 
 **Proposal Submission Timeline:** Proposals must be submitted to the committee at least 2 weeks before the next committee meeting. For example, if the committee meets on the 15th of the month, proposals must be submitted no later than the 2nd of the month to allow sufficient time for review and consideration by committee members.
 
-**Committee Chair as Tie Breaker:** In the event of a tie vote, the committee chair will act as the tie breaker. The committee chair will cast the deciding vote to reach a resolution.
+**Danial Pittman as Tie Breaker:** In the event of a tie vote, Dan will act as the tie breaker. The committee chairs will all cast a vote with Dan the tiebreaker to reach a resolution. Dan, as founder and CEO of Qwoyn Studios, shall have the power to initiate forced resignation of any member of the oversight committee. The community is strongly encouraged to petition to Daniel Pittman for removal of oversight committee members if deemed necessary.
 
-**Conflict Resolution:** Conflict resolution within the committee will be handled by the Qwoyn Network oversight committee. This separate committee will be responsible for mediating and resolving any conflicts or disputes that may arise during committee deliberations or decision-making processes.
+**Conflict Resolution:** Conflict resolution within the committees will be handled by the Qwoyn Network oversight committee by internal vote. This committee will be responsible for mediating and resolving any conflicts or disputes that may arise during committee deliberations or decision-making processes. Dan shall be the final say in the event of a tie vote
+
 
 ## Meeting Schedule and Communication:
 
-**Meeting Schedule:** The committee will hold regular meetings on the 3rd and 18th of each month at 1800 UTC. This fixed schedule ensures consistent and predictable meeting times for committee members to convene and discuss committee matters.
+**Meeting Schedule:** The committee will hold regular meetings on the first and third Friday of each month at a predetermined time that works for all members. This fixed schedule ensures consistent and predictable meeting times for committee members to convene and discuss committee matters. If a member can not attend, there must be an effort made to reschedule as soon as possible to a time all members can be present. Attendance for this committee is mandatory.
 
 **Virtual Meeting Platform:** The committee will conduct meetings virtually using Google Meet. This platform will facilitate remote participation and enable effective communication among committee members.
 
@@ -81,51 +66,25 @@ By fulfilling these responsibilities, the Oversight Committee will contribute to
 
 **Mandatory Attendance:** It is mandatory for each committee member to attend all scheduled meetings. However, in the event of an emergency, a member may be excused from attendance, and the meeting will be rescheduled to accommodate the member's absence.
 
-**Meeting Notes and Repository:** The committee secretary will be responsible for taking comprehensive notes during meetings. These notes will be posted on the Qwoyn Studios Committees GitHub repository, making them accessible to all stakeholders and ensuring transparency and accountability.
+**Meeting Notes and Repository:** The committee secretary will be responsible for taking comprehensive notes during meetings. These notes will be posted on the Qwoyn Studios Committees GitHub repository, making them accessible to all stakeholders and ensuring transparency and accountability. It is the job of scribe as well as te president to take notes on oversight committee meetings, as well as take notes and monitor milestones of the other committees.
 
-**Public Observation:** Committee meetings will be open to the public, providing an opportunity for community members to observe the proceedings. However, unless a special session is called, public comments will not be entertained during regular meetings. This ensures that the focus remains on the committee's agenda and facilitates efficient decision-making.
-
-## Evaluation and Selection Criteria:
-
-The Oversight Committee will evaluate committee participation based on predefined criteria to ensure transparency, accountability, and the effective functioning of committees within the Qwoyn Network. The following criteria will be considered:
-
-**Active Participation:** Assess the level of active participation and engagement of committee members in fulfilling their responsibilities and duties within their respective committees.
-
-**Transparency and Ethical Conduct:** Evaluate the adherence of committee members to transparency requirements, ethical standards, and the Qwoyn Network's governance principles.
-
-**Committee Performance:** Assess the performance and effectiveness of committees in fulfilling their designated responsibilities and achieving their stated objectives.
-
-**Conflict Resolution:** Evaluate the ability of committees to handle disputes and conflicts in a fair and impartial manner, ensuring the resolution of issues in a timely and efficient manner.
-
-By applying these evaluation and selection criteria, the Oversight Committee will ensure the transparency, accountability, and integrity of committee operations within the Qwoyn Network.
-
-## Progress Tracking and Reporting:
-
-The Oversight Committee will implement a robust system for tracking the progress of approved projects within the Osmosis LP. This section outlines the key components of progress tracking and reporting:
-
-**Milestone-based Progress Tracking:** Approved projects will be divided into significant milestones or stages. The committee will establish clear milestones for each project, allowing for effective tracking of progress and achievement of key objectives.
-
-**Regular Reporting:** Project owners or teams will be required to provide regular updates on their project's progress according to the established milestones. The reporting frequency and format will be determined by the committee, ensuring transparency and accountability.
-
-**Review and Evaluation:** The Aquifer Committee will review the progress reports submitted by project owners or teams. The committee will assess whether milestones are being met, the project is on track, and if any adjustments or support are needed.
-
-**Community Communication:** The committee will communicate project progress to the Qwoyn Network community through designated channels such as official announcements, newsletters, or community forums. This ensures that community members are informed and engaged in the development and milestones achieved within the Osmosis LP projects.
-
-**Adjustments and Support:** If necessary, the committee may provide guidance, support, or recommendations to project owners or teams to help them navigate any challenges, ensure continued progress, and maximize the project's potential impact within the Osmosis LP.
-
-**Transparency and Documentation:** The committee will maintain accurate records and documentation of project progress, updates, and evaluations. These records will be made available to the public to ensure transparency and facilitate community understanding of the projects' advancements.
-
-**Accountability Measures:** The committee will establish accountability measures to ensure project owners or teams fulfill their reporting obligations and make satisfactory progress towards project milestones. This may include periodic reviews, performance assessments, or specific criteria for continued project support.
+**Public Observation:** Committee meetings will be open to the public, providing an opportunity for community members to observe the proceedings. However, unless a special session is called, public comments will not be entertained during regular meetings. This ensures that the focus remains on the committee's agenda and facilitates efficient decision-making. Up to 5% of the discretionary spend budget may be used to encourage public observation at the discretion of the oversight committee. If the use of the discretionary-spend budget for incentivisation pf public observation exceeds 0% it shall require a unanimous consensus within the oversight committee, Dan’s approval, as well as a majority vote by the finance committee.
 
 ## Resource Allocation:
 
-Given the endowment of 200,000 QWOYN tokens, the Oversight Committee has determined that it can generate roughly 5500 QWOYN tokens per month through staking. The funds will be allocated in the following manner:
+Given the endowment of approx 200k QWOYN tokens, the Oversight Committee has determined that it can generate 6500 QWOYN tokens per month through staking. The funds will be allocated in the following manner:
 
-**Restaking:** 50% of the generated QWOYN tokens, equivalent to 3250 tokens per month, will be restaked into the staking pool. Restaking helps to support the growth and security of the network by increasing the staked QWOYN tokens and enhancing network consensus.
+**Restaking:** 25%-50% of the generated QWOYN tokens, equivalent to up to 3250 tokens per month, will be restaked into the staking pool. Restaking helps to support the growth and security of the network by increasing the staked QWOYN tokens and enhancing network consensus.
 
-**Distribution to Committee Members:** The remaining 50% of the generated QWOYN tokens will be shared among the committee members. This distribution recognizes the efforts and contributions of committee members and provides an incentive for their active participation and dedication.
+0%-5% to be used for incentivization to the community to participate in oversight of committees operations and attending all committee meetings. If above 0% this requires unanimous consensus among the oversight committee, Dan’s approval, as well as majority vote by the Finance committee.
 
-**Discretionary Use of Restaked Amount:** The committee will have the flexibility to determine the use of the restaked QWOYN tokens. They may choose to allocate them towards specific initiatives, community projects, liquidity provisioning, or any other endeavors that align with the committee's purpose and benefit the Qwoyn Network ecosystem.
+0%-5% to be used to further compensate president, who shall also be responsible for all positions and all jobs assigned to oversight committee members.  If above 0% this requires unanimous consensus among the oversight committee, Dan’s approval, as well as majority vote by the Finance committee.
+
+Minimum of 15% of the generated tokens to be locked into a purse to keep liquid. Any use of these tokens requires unanimous consensus among the oversight committee, Dan’s approval, as well as majority vote by the Finance committee.
+
+**Distribution to Committee Members:** The remaining 50% of the generated QWOYN tokens, also equivalent to 3250 tokens per month, will be shared among the committee members. This distribution recognizes the efforts and contributions of committee members and provides an incentive for their active participation and dedication.
+
+**Discretionary Use of Restaked Amount:** The committee will have the flexibility to determine the use of the restaked QWOYN tokens. They may choose to allocate them towards specific initiatives, community projects, liquidity provisioning, or any other endeavors that align with the committee's purpose and benefit the Qwoyn Network ecosystem. Unless agreed on by the Oversight committee, the Discretionary tokens shall be restaked. Anything below 50% of the total Qwoyn generated requires unanimous approval by the oversight committee, Dan’s approval, as well as majority vote by the finance committee. If these conditions are not met, all 50% of the Qwoyn tokens generated shall be restaked until unanimous agreement is reached by Dan and the oversight committee plus passes majority vote by the finance committee.
 
 ## Charter Amendments:
 
@@ -139,18 +98,16 @@ The Oversight Committee recognizes that over time, amendments to the committee c
 
 **Display of New Charter:** The updated and ratified charter will be prominently displayed in the Readme.md file of the committee's GitHub repository. This ensures that the latest version of the charter is easily accessible to all community members and stakeholders.
 
+
 ## Charter Review:
 
-To ensure the ongoing effectiveness and alignment of the committee's operations with the evolving needs of the Qwoyn Network community, the Aquifer Committee will conduct regular charter reviews. The following guidelines will be followed:
+To ensure the ongoing effectiveness and alignment of the committee's operations with the evolving needs of the Qwoyn Network community, the Oversight Committee will conduct regular charter reviews. These reviews shall happen no less than every three months or if any community members proposes to have them more often.  The following guidelines will be followed:
 
-**Annual Review:** The committee charter will be subject to an annual review, ensuring that it remains up-to-date and relevant. The review will take place at least once per year, providing an opportunity to assess the charter's effectiveness and make any necessary adjustments.
+**Annual Review:** The committee charter will be subject to an annual review, ensuring that it remains up-to-date and relevant. The review will take place at least once per year, providing an opportunity to assess the charter's effectiveness and make any necessary adjustments. This will be an extensive review and there will be reviews made every three months
 
 **Evaluation of Charter Alignment:** During the annual review, the committee will evaluate the charter's alignment with the current goals, objectives, and priorities of the Qwoyn Network. This assessment will ensure that the charter continues to serve as a meaningful framework for the committee's operations.
 
 **Proposal for Charter Amendments:** If any amendments or updates are deemed necessary during the review process, the committee will follow the Charter Amendments section (Section 9) to propose and ratify the changes, involving the community in the decision-making process.
 
-**Community Engagement:** The annual charter review presents an opportunity for community members to provide feedback and suggestions regarding the committee's operations and governance. The committee will actively seek community input and consider it during the review process.
-
-
-
+**Community Engagement:** The annual charter review presents an opportunity for community members to provide feedback and suggestions regarding the committee's operations and governance.
 
