@@ -20,11 +20,11 @@ Committee Membership:
 
 Tyler Clatanff (CosmicHorizonGuru), Aspiring YouTuber, First Gen CoHo NFT Hoarder, Cosmos Enthusiast,https://youtube.com/@cosmichorizonguru/
 
-KingSuper, Core Validator, KingSuper, http://kingsuper.org Linux
-
 0xSR, Core Validator, Kalia Network, https://kalia.network/ Linux
 
 n1trog3n | StakeCraft, Core Validator, https://stakecraft.com/ Linux
+
+KingSuper, Core Validator, http://kingsuper.org Linux
 
 
 
@@ -46,42 +46,38 @@ If universal consensus among the Oversight Committee is achieved along with Qwoy
 
 
 ## Responsibilities and Duties:
-
 The Oversight Committee will have the following key responsibilities and duties
 
 
-## Review and Supervision:
+#### Review and Supervision:
 Regularly review the activities, decisions, and initiatives of other committees within the Qwoyn Network to ensure they align with the network's goals and values.
 Supervise the implementation of projects and policies initiated by various committees to verify their effectiveness and adherence to established guidelines.
 
-## Transparency:
+#### Transparency:
 Ensure that all committees within the network are transparent in their operations and decision-making processes.
 Encourage committees to share relevant information, progress reports, and updates with the larger network community.
 
-## Dispute Handling:
+#### Dispute Handling:
 Act as a neutral body to mediate and resolve disputes that may arise between different committees or members within the network.
 Develop a clear and fair dispute resolution process that ensures conflicts are addressed promptly and equitably.
 
-## Oversight and Accountability:
-Hold committees accountable for their actions and decisions by evaluating their outcomes and impact on the network. The oversight committee shall establish mechanisms to track the performance of committees and ensure they are fulfilling their respective mandates.
+#### Oversight and Accountability:
+Hold committees accountable for their actions and decisions by evaluating their outcomes and impact on the network. The oversight committee shall establish mechanisms to track the performance of committees and ensure they are fulfilling their respective mandates and make these mechanisms public.
 
-## Promotion of Fair and Ethical Practices:
-Develop and communicate a set of ethical guidelines and best practices that all committees within the network should adhere to.
-Offer guidance and support to committees to help them align their activities with ethical standards.
+Promotion of Fair and Ethical Practices:
+Develop and communicate a set of ethical guidelines and best practices that all committees within the network should adhere to. The oversight committee shal offer guidance and support to committees to help them align their activities with ethical standards.
 
-## Smooth Functioning:
+#### Smooth Functioning:
 Identify potential bottlenecks, challenges, or inefficiencies in the network's operations and suggest improvements to ensure its smooth functioning. The oversight committee shall collaborate with committees to address any operational issues that might hinder the achievement of the network's objectives.
 
-## Communication and Reporting:
-Regularly communicate updates, findings, and recommendations to the larger network community to maintain transparency and ensure everyone is informed.
-Prepare comprehensive reports on the activities and achievements of the Oversight Committee to showcase its contributions.
+#### Communication and Reporting:
+Regularly communicate updates, findings, and recommendations to the larger network community to maintain transparency and ensure everyone involved is informed. Prepare comprehensive reports on the activities and achievements of the Oversight Committee to showcase its contributions.
 
-## Education and Training:
+#### Education and Training:
 Offer educational resources, workshops, or training sessions to help committees better understand their roles, responsibilities, and the network's values.
 
 
 ## Decision-Making Process:
-
 Majority Votes to pass a proposal: All proposals brought before the committee will be decided by a majority vote. A proposal will be considered approved if it receives more affirmative votes than negative votes from the committee members.
 
 Proposal Submission Timeline: Proposals must be submitted to the committee at least 2 weeks before the next committee meeting. For example, if the committee meets on the 15th of the month, proposals must be submitted no later than the 2nd of the month to allow sufficient time for review and consideration by committee members.
@@ -92,8 +88,7 @@ Conflict Resolution: Conflict resolution within the committees will be handled b
 
 
 
-## Meeting Schedule and Communication:
-
+# Meeting Schedule and Communication:
 Meeting Schedule: The committee will hold regular meetings on the first and third Friday of each month at a predetermined time that works for all members. This fixed schedule ensures consistent and predictable meeting times for committee members to convene and discuss committee matters. If a member can not attend, there must be an effort made to reschedule as soon as possible to a time all members can be present. Attendance for this committee is mandatory.
 
 Virtual Meeting Platform: The committee will conduct meetings virtually using Google Meet. This platform will facilitate remote participation and enable effective communication among committee members.
@@ -106,42 +101,6 @@ Meeting Notes and Repository: The committee secretary will be responsible for ta
 
 Public Observation: Committee meetings will be open to the public, providing an opportunity for community members to observe the proceedings. However, unless a special session is called, public comments will not be entertained during regular meetings. This ensures that the focus remains on the committee's agenda and facilitates efficient decision-making. Up to 5% of the oversight committee'sdiscretionary spend budget may be used to encourage public observation at the discretion of the oversight committee.
 
-## Evaluation and Selection Criteria:
-
-The Oversight Committee will oversee and make public those who are seeking community funds, based on predefined criteria to ensure alignment with the committee's purpose and the overall goals of the Qwoyn Network. The following criteria will be considered:
-
-Alignment with Network Goals: Assess the extent to which the project proposal aligns with the strategic objectives and mission of the Qwoyn Network.
-
-
-Impact and Community Benefit: Consider the potential impact of the project on the Qwoyn Network community, including aspects such as user adoption, network growth, and community engagement.
-
-Financial Prudence: Evaluate the financial viability and sustainability of the project, including budgeting, cost-effectiveness, and potential return on investment for the network.
-
-Project Team and Expertise: Review the experience, expertise, and track record of the project team or individuals involved, assessing their capability to execute the proposed project successfully and deliver on the intended outcomes.
-
-Transparency and Accountability: Consider the project's plan for transparency and accountability, including regular reporting, progress tracking, and community involvement in decision-making processes.
-
-By applying these evaluation and selection criteria, the Community Spend Committee will make informed decisions regarding the allocation of community funds, ensuring responsible resource management and the support of projects that align with the network's goals and benefit the Qwoyn Network community. It is the job of the oversight committee to ensure this is done properly.
-
-## Progress Tracking and Reporting:
-
-The Oversight Committee will implement a robust system for tracking the progress of approved projects. This section outlines the key components of progress tracking and reporting:
-
-Milestone-based Progress Tracking: Approved projects will be divided into significant milestones or stages. The committee will establish clear milestones for each project, allowing for effective tracking of progress and achievement of key objectives. The job of the oversight committee is to oversee all approved projects and take appropriate action if approved projects are not living up to expectations.
-
-Regular Reporting: Project owners or teams will be required to provide regular updates on their project's progress according to the established milestones. The reporting frequency and format will be determined by the finance committee, ensuring transparency and accountability is the job of the finance committee and the oversight committee is responsible for taking action if obligations are not met. Regular reporting shall take place no less than every three months or if it is voted by the community for more frequent reports, whichever happens first. The oversight committee will publish its own report every three months minimum starting September 1st 2023.
-
-Review and Evaluation: The Oversight Committee will review the progress reports submitted by project owners or teams. The oversight committee will assess whether milestones are being met, the project is on track, and if any adjustments or support are needed. The oversight committee reserves the right to intervene with a petition for forced-resignation of committee chairs if milestones are not being met. All petitions for forced resignation must be put up for formal vote and must pass with more YES votes than NO votes. A detailed explanation must also be provided before any action can be taken by the Oversight Committee
-
-Community Communication: The Oversight Committee will communicate project progress to the Qwoyn Network community through designated channels such as official announcements, newsletters, or community forums. This ensures that community members are informed and engaged in the development and milestones achieved within the Osmosis LP projects. It is the responsibility of the oversight committee to make committee meetings available to the public.
-
-Adjustments and Support: If necessary, the Oversight Committee may provide guidance, support, or recommendations to project owners or teams to help them navigate any challenges, ensure continued progress, and maximize the project's potential impact.
-
-Transparency and Documentation: The Oversight Committee will maintain accurate records and documentation of project progress, updates, and evaluations. These records will be made available to the public to ensure transparency and facilitate community understanding of the projects' advancements.
-
-Accountability Measures: The committee will establish accountability measures to ensure project owners or teams fulfill their reporting obligations and make satisfactory progress towards project milestones. This may include periodic reviews, performance assessments, or specific criteria for continued project support. These measures include the right to put proposals up for community vote for a VETO.
-
-
 ## Resource Allocation:
 
 Given the endowment of approx 200k QWOYN tokens, the Oversight Committee has determined that it can generate roughly 6500 QWOYN tokens per month through staking. The funds will be allocated in the following manner:
@@ -152,7 +111,7 @@ Committee Purse:.15% of the generated tokens to be locked into a purse to keep l
 
 Distribution to Committee Members: The remaining 50% of the generated QWOYN tokens, also equivalent to 3250 tokens per month, will be shared among the committee members. This distribution recognizes the efforts and contributions of committee members and provides an incentive for their active participation and dedication.
 
-Discretionary Use of Restaked Amount: The oversight committee will have the flexibility to determine the use of the restaked QWOYN tokens. They may choose to allocate them towards specific initiatives, community projects, liquidity provisioning, or any other endeavors that align with the committee's purpose and benefit the Qwoyn Network ecosystem. The oversight committee also reserves the right to allocate any amount of the distribution to oversight committee members for other purposes if unanimously agreed on.
+Discretionary Use of Restaked Amount: The oversight committee will have the flexibility to determine the use of the restaked QWOYN tokens. They may choose to allocate them towards specific initiatives, community projects, liquidity provisioning, or any other endeavors that align with the committee's purpose and benefit the Qwoyn Network ecosystem. The oversight committee also reserves the right to allocate any amount of the generated Qwoyn distribution to oversight committee members for other purposes instead, if unanimously agreed on.
 
 Unless unanimously agreed on by the entire Oversight committee, the discretionary tokens shall be mostly restaked (35%) with 15% of the total generated tokens set aside in a purse. Any use of discretionary funds must have unanimous approval by the oversight committee.
 
