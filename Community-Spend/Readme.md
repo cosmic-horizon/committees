@@ -25,14 +25,15 @@ The Community Spend Committee is dedicated to overseeing the distribution of com
 
 Include the names of the committee members, their roles or positions, and any additional information that helps identify each member's expertise or contribution to the committee.
 
-enbit88
-checkfit
+qwoyn           @Danny Qwoyn
 
-Daniel Pittman, <committee position>, represents Qwoyn Studios, etc etc
+enbit88         @eNcipher 
 
-Xxx xxx, <committee position>, etc etc..
+checkfit        @checkfit 
 
-Xxx xxx, <committee position>, etc etc..
+niloki555       @Ruslan
+
+DimaRCR7#0690   @DimaRCR7 
 
 ## Internal Committee Elections:
 
