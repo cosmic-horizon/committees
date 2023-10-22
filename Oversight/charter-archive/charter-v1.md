@@ -24,7 +24,7 @@ Tyler Clatanff (CosmicHorizonGuru), Aspiring YouTuber, First Gen CoHo NFT Hoarde
 
 n1trog3n | StakeCraft, Core Validator, https://stakecraft.com/ Linux
 
-KingSuper, Core Validator, http://kingsuper.org Linux ***(RESIGNED)***
+KingSuper, Core Validator, http://kingsuper.org Linux
 
 
 
