@@ -75,13 +75,13 @@ By fulfilling these responsibilities, the Community Spend Committee will ensure 
 
 ## Meeting Schedule and Communication:
 
-**Meeting Schedule:** The committee will hold regular meetings on the 3rd and 18th of each month at 1800 UTC. This fixed schedule ensures consistent and predictable meeting times for committee members to convene and discuss committee matters.
+**Meeting Schedule:** The committee will hold regular meetings on the 18th of each month at 1800 UTC. This fixed schedule ensures consistent and predictable meeting times for committee members to convene and discuss committee matters. The meeting is held if there is a new application or the need to check old applications, otherwise current issues are resolved without a call, in writing in the committee chat
 
 **Virtual Meeting Platform:** The committee will conduct meetings virtually using Google Meet. This platform will facilitate remote participation and enable effective communication among committee members.
 
 **Meeting Recordings:** All committee meetings will be recorded, and the recordings will be made available to the public. These recordings will be uploaded to the Qwoyn Studios YouTube channel, ensuring transparency and allowing community members to access the meeting proceedings.
 
-**Mandatory Attendance:** It is mandatory for each committee member to attend all scheduled meetings. However, in the event of an emergency, a member may be excused from attendance, and the meeting will be rescheduled to accommodate the member's absence.
+**Mandatory Attendance:** It is mandatory for each committee member to attend all scheduled meetings. However, in the event of an emergency, or a general decision of the majority, a members may be excused from attendance, and the meeting will be rescheduled to accommodate the members's absence.
 
 **Meeting Notes and Repository:** The committee secretary will be responsible for taking comprehensive notes during meetings. These notes will be posted on the Qwoyn Studios Committees GitHub repository, making them accessible to all stakeholders and ensuring transparency and accountability.
 
@@ -105,6 +105,80 @@ The Community Spend Committee will evaluate project proposals seeking community 
 
 By applying these evaluation and selection criteria, the Community Spend Committee will make informed decisions regarding the allocation of community funds, ensuring responsible resource management and the support of projects that align with the network's goals and benefit the Qwoyn Network community.
 
+## Application Process and Guidelines:
+
+### Application Process
+
+The application process will consist of filling out a form, along with submitting a detailed document highlighting all critical areas of evaluation as highlighted in “Proposal Document & Requirements” below.
+
+### Proposal Document & Requirements:
+
+This should be submitted under one of the following formats: Typeform, Google Doc, Notion or PDF. 
+
+Please provide a thorough response to all of the fields below. This information will be key in helping our reviewers assess your proposal and ensure a timely response is provided.
+
+The information included in your proposal should include, but is not limited to, the following criteria:
+
+- Team & Experience:
+    - About the Team
+    - Name and Socials of core contributors to the Proposal (Telegram, Discord, LinkedIn & Twitter)
+    - Relevant experience of all core contributors
+    - References to prior projects built by the team built in the Web2/Web3 spaces
+- Project Approach
+    - Plans to tackle your selected project
+        - You can include any research/brainstorm results, and/or a brief description of your project analysis
+    - Additional functionality suggestions
+    - Any foreseeable risks
+    - Future plan and maintenance suggestions
+- Project plan
+    - Design Diagram and/or Architectural Diagram
+        - All technical components
+        - Dependencies and integrations
+    - Features and/or user stories
+    - Feature and/or user story based development schedule and delivery timeline
+        - Bi-weekly or Monthly milestones with clear milestone deliverables
+            - Milestones check in frequency is based on project size
+        - Resources allocated across each Milestone & underlying man-hour requirement
+### Have all of the above documentation ready? Submit your Proposal in the following [TypeForm](https://pmr5u2lan0h.typeform.com/to/Ox50dPSq)
+---
+## FA
+### What to expect after the application is submitted?
+
+We will review your applications within 3-4 weeks. Once the review is completed, the team will reach out to inform you of the outcome of your submission and share next steps if warranted. 
+
+Our team may at times reach out to request for additional information as part of the review process. Please provide clarifications when required and requested.
+
+### What to expect when your application is approved?
+
+If your application is approved by committee, a kickoff meeting will be scheduled to review the project plan, and discuss your application details.
+
+You will also be prompted to complete a Know Your Customer (KYC) verification. Once that is complete, the committee creates a proposal for approval by the community, after which payments are made according to the recommendations presented
+
+### Who’s eligible for this program?
+
+- Individuals
+- Small teams
+- Enterprise companies
+- Academia and research teams
+- Non-profit research orgnizations
+
+### Will the project have to be open-source?
+
+Yes, given the nature of the program and the type of projects identified, we believe it is important to ensure that all developments related to this program remain open-source, to the greater benefit of the Qwoyn ecosystem.
+
+### Future project categories
+
+- Research
+- Defi
+- Infra
+- Social
+- Wallet
+- Security
+- Analytics
+
+
+*Note: New projects will be added periodically, stay tuned!*
+
 ## Progress Tracking and Reporting:
 
 The Community Spend Committee will implement a robust system for tracking the progress of approved projects within the Osmosis LP. This section outlines the key components of progress tracking and reporting:
@@ -125,13 +199,9 @@ The Community Spend Committee will implement a robust system for tracking the pr
 
 ## Resource Allocation:
 
-Given the endowment of 200,000 QWOYN tokens, the Aquifer Committee has determined that it can generate roughly 5500 QWOYN tokens per month through staking. The funds will be allocated in the following manner:
+Given the endowment of 200,000 QWOYN tokens, the Committee has determined that it can generate roughly 2500 QWOYN tokens per month through staking. The funds will be allocated in the following manner:
 
-**Restaking:** 50% of the generated QWOYN tokens will be restaked into the staking pool. Restaking helps to support the growth and security of the network by increasing the staked QWOYN tokens and enhancing network consensus.
-
-**Distribution to Committee Members:** The remaining 50% of the generated QWOYN tokens will be shared among the committee members. This distribution recognizes the efforts and contributions of committee members and provides an incentive for their active participation and dedication.
-
-**Discretionary Use of Restaked Amount:** The committee will have the flexibility to determine the use of the restaked QWOYN tokens. They may choose to allocate them towards specific initiatives, community projects, liquidity provisioning, or any other endeavors that align with the committee's purpose and benefit the Qwoyn Network ecosystem.
+**Discretionary Use of generated QWOYN tokens:** The committee will have the flexibility to determine the use of the generated QWOYN tokens. They may choose to allocate them towards specific initiatives, restaking, share among the committee members, community projects, liquidity provisioning, or any other endeavors that align with the committee's purpose and benefit the Qwoyn Network ecosystem.
 
 ## Charter Amendments:
 
