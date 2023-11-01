@@ -141,7 +141,7 @@ The information included in your proposal should include, but is not limited to,
         - Resources allocated across each Milestone & underlying man-hour requirement
 ### Have all of the above documentation ready? Submit your Proposal in the following [TypeForm](https://pmr5u2lan0h.typeform.com/to/Ox50dPSq)
 ---
-## FA
+## FAQ
 ### What to expect after the application is submitted?
 
 We will review your applications within 3-4 weeks. Once the review is completed, the team will reach out to inform you of the outcome of your submission and share next steps if warranted. 
