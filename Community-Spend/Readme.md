@@ -29,8 +29,6 @@ qwoyn           @Danny Qwoyn
 
 enbit88         @eNcipher 
 
-checkfit        @checkfit 
-
 niloki555       @Ruslan
 
 DimaRCR7#0690   @DimaRCR7 
@@ -75,13 +73,13 @@ By fulfilling these responsibilities, the Community Spend Committee will ensure 
 
 ## Meeting Schedule and Communication:
 
-**Meeting Schedule:** The committee will hold regular meetings on the 3rd and 18th of each month at 1800 UTC. This fixed schedule ensures consistent and predictable meeting times for committee members to convene and discuss committee matters.
+**Meeting Schedule:** The committee will hold regular meetings on the 18th of each month at 1800 UTC. This fixed schedule ensures consistent and predictable meeting times for committee members to convene and discuss committee matters. The meeting is held if there is a new application or the need to check old applications, otherwise current issues are resolved without a call, in writing in the committee chat
 
 **Virtual Meeting Platform:** The committee will conduct meetings virtually using Google Meet. This platform will facilitate remote participation and enable effective communication among committee members.
 
 **Meeting Recordings:** All committee meetings will be recorded, and the recordings will be made available to the public. These recordings will be uploaded to the Qwoyn Studios YouTube channel, ensuring transparency and allowing community members to access the meeting proceedings.
 
-**Mandatory Attendance:** It is mandatory for each committee member to attend all scheduled meetings. However, in the event of an emergency, a member may be excused from attendance, and the meeting will be rescheduled to accommodate the member's absence.
+**Mandatory Attendance:** It is mandatory for each committee member to attend all scheduled meetings. However, in the event of an emergency, or a general decision of the majority, a members may be excused from attendance, and the meeting will be rescheduled to accommodate the members's absence.
 
 **Meeting Notes and Repository:** The committee secretary will be responsible for taking comprehensive notes during meetings. These notes will be posted on the Qwoyn Studios Committees GitHub repository, making them accessible to all stakeholders and ensuring transparency and accountability.
 
@@ -125,13 +123,9 @@ The Community Spend Committee will implement a robust system for tracking the pr
 
 ## Resource Allocation:
 
-Given the endowment of 200,000 QWOYN tokens, the Aquifer Committee has determined that it can generate roughly 5500 QWOYN tokens per month through staking. The funds will be allocated in the following manner:
+Given the endowment of 200,000 QWOYN tokens, the Committee has determined that it can generate roughly 2500 QWOYN tokens per month through staking. The funds will be allocated in the following manner:
 
-**Restaking:** 50% of the generated QWOYN tokens will be restaked into the staking pool. Restaking helps to support the growth and security of the network by increasing the staked QWOYN tokens and enhancing network consensus.
-
-**Distribution to Committee Members:** The remaining 50% of the generated QWOYN tokens will be shared among the committee members. This distribution recognizes the efforts and contributions of committee members and provides an incentive for their active participation and dedication.
-
-**Discretionary Use of Restaked Amount:** The committee will have the flexibility to determine the use of the restaked QWOYN tokens. They may choose to allocate them towards specific initiatives, community projects, liquidity provisioning, or any other endeavors that align with the committee's purpose and benefit the Qwoyn Network ecosystem.
+**Discretionary Use of generated QWOYN tokens:** The committee will have the flexibility to determine the use of the generated QWOYN tokens. They may choose to allocate them towards specific initiatives, restaking, share among the committee members, community projects, liquidity provisioning, or any other endeavors that align with the committee's purpose and benefit the Qwoyn Network ecosystem.
 
 ## Charter Amendments:
 
